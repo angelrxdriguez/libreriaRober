@@ -49,7 +49,7 @@ public class App {
                     break;
 
                 case 5:
-                    // Pedir un libroo
+                    // Pedir un libro
                     if (usuarioActual != null) {
                         pedirLibro(usuarioActual, librosDisponibles, listaReservas);
                     } else {
